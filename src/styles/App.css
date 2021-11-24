@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.marginBottom{
+  margin-top: 100px !important;
+}
+tr.actions span{
+    color: #222;
+    cursor: pointer;
+}
